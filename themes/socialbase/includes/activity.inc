@@ -1,5 +1,8 @@
 <?php
 
+use Drupal\Core\StringTranslation\TranslatableMarkup;
+use Drupal\Core\Link;
+
 /**
  * Implements hook_preprocess_activity().
  * @param $variables
